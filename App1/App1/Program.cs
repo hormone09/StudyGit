@@ -8,5 +8,10 @@ namespace App1
 		{
 			Console.WriteLine("Hello World!");
 		}
+
+		static void MasterBranch()
+		{
+			Console.WriteLine("MasterBranch");
+		}
 	}
 }
