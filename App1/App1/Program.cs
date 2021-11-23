@@ -6,22 +6,7 @@ namespace App1
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
-		}
-
-		static void MasterBranch()
-		{
-			Console.WriteLine("MasterBranch");
-		}
-
-		static void DevelopBranch()
-		{
-			Console.WriteLine("DevelopBranch");
-		}
-
-		static void NewMasterBranch()
-		{
-			Console.WriteLine("New Master branch");
+			Console.WriteLine("Это слито с мастера, мастер без изменений!");
 		}
 	}
 }
