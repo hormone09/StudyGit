@@ -18,5 +18,10 @@ namespace App1
 		{
 			Console.WriteLine("DevelopBranch");
 		}
+
+		static void NewMasterBranch()
+		{
+			Console.WriteLine("New Master branch");
+		}
 	}
 }
