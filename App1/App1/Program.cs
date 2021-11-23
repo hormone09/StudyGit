@@ -6,7 +6,7 @@ namespace App1
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Это слито с мастера, мастер без изменений!");
+			Console.WriteLine("Это слито с developa!");
 		}
 	}
 }
